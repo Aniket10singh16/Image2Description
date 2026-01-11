@@ -16,8 +16,6 @@ This project implements a **research‑grade image captioning system** that gene
 
 Unlike conventional CNN‑RNN captioning pipelines, this system explicitly models **object relationships** using **Graph Convolutional Networks (GCNs)** and uses **Dual Multi‑Head Attention** to align visual relations with natural language.
 
-This work is based on the MSc project **“Mimic Human‑Level Understanding of Image”** (St. Xavier’s College, Kolkata, 2024).
-
 ---
 
 ## 🧠 Core Idea
